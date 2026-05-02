@@ -1,0 +1,13 @@
+target/
+.github/java-upgrade/
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+HELP.md
+*.log
+.DS_Store
